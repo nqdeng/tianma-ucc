@@ -1,0 +1,24 @@
+{
+  "name": "tianma-ucc",
+  "description": "The wrapper module for UCC",
+  "keywords": [
+    "unicorn",
+    "tianma"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nqdeng/tianma-ucc.git"
+  },
+  "author": {
+    "name": "Nanqiao Deng",
+    "email": "nqdeng@gmail.com"
+  },
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+	"ucc": "3.0.0"
+  },
+  "main": "lib/index.js"
+}
